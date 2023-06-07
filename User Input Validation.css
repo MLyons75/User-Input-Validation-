@@ -1,0 +1,59 @@
+properties
+{
+    property: value;
+
+}
+
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+    color:rgb(37, 1, 1);
+}
+h2
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: lighter;
+    color:rgb(143, 3, 3);
+}
+h3
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    font-style: unset;
+    font-weight: bold;
+    color:rgb(32, 1, 1);
+}
+img
+{
+    max-width: 1000px;
+}
+
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+}
+
+nav
+{
+height: 6000px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 100px;
+}
+
+body
+{
+    background-image: linear-gradient(red,yellow);
+    background-repeat: round;
+    color:rgb(51, 3, 3)
+}
